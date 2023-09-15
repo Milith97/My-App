@@ -1,17 +1,26 @@
-import { StyleSheet, Text, View } from 'react-native'
+import { StyleSheet, Text, View,StatusBar } from 'react-native'
 import React from 'react'
 
 export default function SplashPage() {
-  return (
-    <View style={styles.container}>
-      <Text>My App</Text>
-    </View>
-  )
+    return (
+        <View style={styles.container}>
+            <StatusBar backgroundColor='#2A2A2A'></StatusBar>
+            <Text style={styles.Text}>My App</Text>
+        </View>
+    )
 }
 
 const styles = StyleSheet.create({
-    container:{
-
+    container: {
+        flex: 1,
+        backgroundColor: '#2A2A2A',
+        justifyContent: 'center',
+        alignItems: 'center'
+    },
+    Text: {
+        color: "#ffffff",
+        fontSize:25,
+        fontWeight:'bold'
     }
 
 })
