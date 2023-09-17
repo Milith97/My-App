@@ -1,4 +1,4 @@
-Welcome to the My App Input App repository!
+Welcome to the My App Input App repository! 👋🏻🙂
 (THIS IS MADE BY REACT NATVE FREAMWORK)
 
 ## Features
