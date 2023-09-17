@@ -1,8 +1,22 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Welcome to the My App Input App repository!
+(THIS IS MADE BY REACT NATVE FREAMWORK)
+
+## Features
+ This application Have 
+ 
+ Splash Screen, 
+ Sign In, 
+ Sign Up,
+ Home Screen(This Screen Can be use for voice text command),
+ Profile Screen
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+To get started with the Voice Input App(My App), follow these simple steps:
+
+1. Clone this repository to your local machine.
+2. Install the required dependencies as outlined in the `Installation` section of the documentation.
+3. Run the app on your device.
 
 ## Step 1: Start the Metro Server
 
