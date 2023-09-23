@@ -1,5 +1,6 @@
-Welcome to the My App Input App repository! 👋🏻🙂
-(THIS IS MADE BY REACT NATVE FREAMWORK)
+Welcome to the My App ![Myapp](https://github.com/Milith97/My-App/assets/65556509/d5ed878b-048b-45de-b7d8-860d13b46f9e)
+Simple Loggin & Sign Up Page  👋🏻🙂
+
 
 ## Features
  This application Have 
